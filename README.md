@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **ShareX**
 
+- 🌱 I’m currently learning **Backend**
+
+- 👯 I’m looking to collaborate on **Any Project because I am eager to learn**
+
 - 👨‍💻 My portfolio [https://arjitchitkara.github.io/Portfolio/](https://arjitchitkara.github.io/Portfolio/)
 
 - 📫 How to reach me **arjitchitkara004@gmail.com**
